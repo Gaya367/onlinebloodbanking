@@ -135,7 +135,7 @@ section form div input:hover{
     cursor: pointer;
 }
 
-.button{
+button{
     display:block;
     margin:2rem auto;
     padding:1rem 6rem;
@@ -145,6 +145,6 @@ section form div input:hover{
     color:white;
     font-size: 1.1rem;
 }
-.button:hover{
+button:hover{
     cursor:pointer;
 }
